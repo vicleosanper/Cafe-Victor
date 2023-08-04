@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:id="@+id/nav_comida"
+    android:title="Comida"
+    android:icon="@drawable/menu_comida"/>
+
+<item android:id="@+id/nav_promo"
+        android:title="Promociones"
+        android:icon="@drawable/menu_promociones"/>
+
+    <item android:id="@+id/nav_sucursales"
+        android:title="Sucursales"
+        android:icon="@drawable/menu_sucursales"/>
+
+</menu>
